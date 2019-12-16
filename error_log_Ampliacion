@@ -1,0 +1,738 @@
+[19-Nov-2018 14:02:39 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 14:03:20 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 16:20:08 America/Costa_Rica] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/views/template.php on line 15
+[19-Nov-2018 16:24:10 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 16:24:23 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 16:24:27 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 16:59:14 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 16:59:39 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 17:03:42 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 17:13:01 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 17:13:02 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[19-Nov-2018 18:57:50 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ')' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 48
+[19-Nov-2018 18:57:54 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ')' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 48
+[19-Nov-2018 18:57:57 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ')' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 48
+[19-Nov-2018 22:08:41 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 335
+[20-Nov-2018 09:21:23 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'nomb_emp' (T_STRING), expecting ',' or ')' in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 13
+[20-Nov-2018 10:39:23 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 336
+[20-Nov-2018 10:39:25 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[20-Nov-2018 10:50:45 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 336
+[20-Nov-2018 10:50:47 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[20-Nov-2018 10:54:20 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 336
+[20-Nov-2018 10:54:25 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[20-Nov-2018 10:55:56 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 336
+[20-Nov-2018 10:55:57 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[20-Nov-2018 11:01:19 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 336
+[20-Nov-2018 11:01:21 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[20-Nov-2018 12:07:54 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 12:16:42 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 13:37:45 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 204
+[20-Nov-2018 13:58:15 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 14:48:45 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:12:06 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:13:23 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:13:28 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:14:08 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:14:20 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:14:28 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:24:19 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 347
+[20-Nov-2018 15:31:34 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 44
+[20-Nov-2018 15:54:13 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 82
+[20-Nov-2018 16:04:24 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 84
+[20-Nov-2018 16:07:27 America/Costa_Rica] PHP Notice:  Undefined index: Nombre Empresa in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[20-Nov-2018 16:11:37 America/Costa_Rica] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 32
+[20-Nov-2018 16:11:37 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 346
+[20-Nov-2018 17:38:08 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 346
+[20-Nov-2018 17:40:55 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 346
+[20-Nov-2018 17:41:30 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 346
+[20-Nov-2018 18:53:42 America/Costa_Rica] PHP Notice:  Array to string conversion in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[20-Nov-2018 18:53:42 America/Costa_Rica] PHP Notice:  Undefined variable: Array in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[20-Nov-2018 21:26:34 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 346
+[20-Nov-2018 21:46:47 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 346
+[20-Nov-2018 22:27:46 America/Costa_Rica] PHP Notice:  Array to string conversion in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[20-Nov-2018 22:27:46 America/Costa_Rica] PHP Notice:  Undefined variable: Array in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[20-Nov-2018 23:38:39 America/Costa_Rica] PHP Notice:  Array to string conversion in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[20-Nov-2018 23:38:39 America/Costa_Rica] PHP Notice:  Undefined variable: Array in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[20-Nov-2018 23:42:02 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 355
+[20-Nov-2018 23:42:06 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[20-Nov-2018 23:56:40 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(20): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(8): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 00:21:11 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 55
+[21-Nov-2018 00:23:40 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ',' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 54
+[21-Nov-2018 00:24:08 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(20): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(8): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 00:24:10 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 00:24:11 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(20): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(8): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 00:24:16 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 00:24:18 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(20): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(8): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 00:24:19 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 00:24:52 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(20): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(8): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 00:49:14 America/Costa_Rica] PHP Warning:  Use of undefined constant date - assumed 'date' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 00:49:14 America/Costa_Rica] PHP Notice:  Array to string conversion in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[21-Nov-2018 00:49:14 America/Costa_Rica] PHP Notice:  Undefined variable: Array in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[21-Nov-2018 00:57:21 America/Costa_Rica] PHP Warning:  Use of undefined constant getdate - assumed 'getdate' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:00:52 America/Costa_Rica] PHP Warning:  Use of undefined constant getdate - assumed 'getdate' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:02:40 America/Costa_Rica] PHP Warning:  Use of undefined constant getdate - assumed 'getdate' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:03:49 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$fechaRegistro' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 3
+[21-Nov-2018 01:04:07 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 6
+[21-Nov-2018 01:04:21 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 3
+[21-Nov-2018 01:04:21 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 3
+[21-Nov-2018 01:04:30 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 6
+[21-Nov-2018 01:04:38 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:05:26 America/Costa_Rica] PHP Warning:  Use of undefined constant DateTime - assumed 'DateTime' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/index.php on line 20
+[21-Nov-2018 01:05:26 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:05:28 America/Costa_Rica] PHP Warning:  Use of undefined constant DateTime - assumed 'DateTime' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/index.php on line 20
+[21-Nov-2018 01:05:28 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:05:34 America/Costa_Rica] PHP Warning:  Use of undefined constant DateTime - assumed 'DateTime' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/index.php on line 20
+[21-Nov-2018 01:05:50 America/Costa_Rica] PHP Warning:  Use of undefined constant DateTime - assumed 'DateTime' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/index.php on line 20
+[21-Nov-2018 01:05:50 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:05:52 America/Costa_Rica] PHP Warning:  Use of undefined constant DateTime - assumed 'DateTime' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/index.php on line 20
+[21-Nov-2018 01:06:53 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:07:08 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:07:09 America/Costa_Rica] PHP Notice:  Undefined variable: fechaRegistro in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:08:39 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'getdate' (T_STRING), expecting '(' in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:09:19 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$timestamp' (T_VARIABLE), expecting ']' in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 46
+[21-Nov-2018 01:10:18 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$timestamp' (T_VARIABLE), expecting ']' in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:10:38 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$timestamp' (T_VARIABLE), expecting ']' in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:11:06 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$timestamp' (T_VARIABLE), expecting ']' in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:11:08 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$timestamp' (T_VARIABLE), expecting ']' in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:11:33 America/Costa_Rica] PHP Warning:  Use of undefined constant date - assumed 'date' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:11:56 America/Costa_Rica] PHP Warning:  Use of undefined constant DateTime - assumed 'DateTime' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 47
+[21-Nov-2018 01:16:18 America/Costa_Rica] PHP Warning:  Use of undefined constant Date - assumed 'Date' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:18:06 America/Costa_Rica] PHP Warning:  Use of undefined constant Date - assumed 'Date' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:21:01 America/Costa_Rica] PHP Warning:  Use of undefined constant date - assumed 'date' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:24:13 America/Costa_Rica] PHP Warning:  Use of undefined constant getdate - assumed 'getdate' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:24:13 America/Costa_Rica] PHP Notice:  Array to string conversion in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[21-Nov-2018 01:24:13 America/Costa_Rica] PHP Notice:  Undefined variable: Array in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 10
+[21-Nov-2018 01:26:04 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 74
+[21-Nov-2018 01:26:55 America/Costa_Rica] PHP Warning:  Use of undefined constant getdate - assumed 'getdate' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 36
+[21-Nov-2018 01:45:01 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 74
+[21-Nov-2018 01:45:07 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 74
+[21-Nov-2018 01:57:57 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 01:58:27 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 02:03:30 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 02:09:45 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 02:12:45 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 02:12:48 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 02:18:10 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method MvcController::ingresoUsuarioController() in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(21): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/login.php on line 102
+[21-Nov-2018 02:19:09 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 87
+[21-Nov-2018 02:22:11 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 02:22:22 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 356
+[21-Nov-2018 12:43:19 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 13:50:03 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/User_Perfil.php on line 2
+[21-Nov-2018 13:50:03 America/Costa_Rica] PHP Notice:  Undefined index: usuario in /opt/lampp/htdocs/appdicun/mvc/views/modules/User_Perfil.php on line 4
+[21-Nov-2018 13:51:36 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 87
+[21-Nov-2018 14:07:52 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[21-Nov-2018 14:08:06 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 14:08:06 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 14:08:08 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 14:08:08 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 14:08:08 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 14:08:08 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 14:08:09 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 14:08:09 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 14:08:15 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 14:08:15 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 14:25:43 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 14:29:21 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datosApiController' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 14:31:21 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datosApiController' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 14:31:24 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datosApiController' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 14:34:56 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ':' in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 11
+[21-Nov-2018 14:35:38 America/Costa_Rica] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 17
+[21-Nov-2018 14:35:53 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE), expecting ']' in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 17
+[21-Nov-2018 14:39:50 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /opt/lampp/htdocs/appdicun/mvc/models/api-crud.php on line 11
+[21-Nov-2018 14:40:49 America/Costa_Rica] PHP Fatal error:  Cannot declare class Datos, because the name is already in use in /opt/lampp/htdocs/appdicun/mvc/models/api-crud.php on line 22
+[21-Nov-2018 14:43:39 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datosApi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 14:45:19 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:18:11 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:18:14 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:25:01 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:25:03 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:25:07 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:25:31 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:25:33 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:28:17 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$Api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:29:19 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$Api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:29:48 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$Api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 15:30:04 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$Api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 16:04:48 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$Api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 16:05:33 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$Api' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 16:07:11 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[21-Nov-2018 16:27:39 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:27:39 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 16:28:15 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:28:15 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 16:28:16 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:28:16 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 16:28:20 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:30:06 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:30:06 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 16:30:14 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:30:14 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 16:30:22 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:30:22 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 16:30:52 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 16:30:52 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 18:34:27 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 18:34:27 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 18:34:32 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 18:34:32 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 18:34:35 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 18:34:35 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 18:34:51 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 18:34:51 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[21-Nov-2018 18:34:56 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[21-Nov-2018 18:34:56 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 3
+[21-Nov-2018 18:34:56 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[22-Nov-2018 00:33:58 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 76
+[22-Nov-2018 14:52:37 America/Costa_Rica] PHP Parse error:  syntax error, unexpected end of file in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 246
+[22-Nov-2018 16:14:44 America/Costa_Rica] PHP Notice:  Undefined variable: correo in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 205
+[22-Nov-2018 16:14:44 America/Costa_Rica] PHP Notice:  Trying to get property 'ErrorInfo' of non-object in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 205
+[22-Nov-2018 16:17:04 America/Costa_Rica] PHP Notice:  Undefined variable: correo in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 206
+[22-Nov-2018 16:17:04 America/Costa_Rica] PHP Notice:  Trying to get property 'ErrorInfo' of non-object in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 206
+[22-Nov-2018 16:17:06 America/Costa_Rica] PHP Notice:  Undefined variable: correo in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 206
+[22-Nov-2018 16:17:06 America/Costa_Rica] PHP Notice:  Trying to get property 'ErrorInfo' of non-object in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 206
+[22-Nov-2018 16:17:08 America/Costa_Rica] PHP Notice:  Undefined variable: correo in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 206
+[22-Nov-2018 16:17:08 America/Costa_Rica] PHP Notice:  Trying to get property 'ErrorInfo' of non-object in /opt/lampp/htdocs/appdicun/mvc/views/modules/registro.php on line 206
+[22-Nov-2018 16:27:48 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[22-Nov-2018 16:27:48 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[22-Nov-2018 18:26:59 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[22-Nov-2018 18:38:35 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:41:02 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:42:27 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:42:32 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:42:43 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:43:48 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:43:50 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:44:54 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$sdfe' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[22-Nov-2018 18:46:20 America/Costa_Rica] PHP Warning:  include_once(api-controller.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:46:20 America/Costa_Rica] PHP Warning:  include_once(): Failed opening 'api-controller.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:47:11 America/Costa_Rica] PHP Warning:  include_once(api-controller.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:47:11 America/Costa_Rica] PHP Warning:  include_once(): Failed opening 'api-controller.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:47:11 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 18:48:32 America/Costa_Rica] PHP Warning:  include_once(api-controller.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:48:32 America/Costa_Rica] PHP Warning:  include_once(): Failed opening 'api-controller.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:48:32 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 18:48:35 America/Costa_Rica] PHP Warning:  include_once(api-controller.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:48:35 America/Costa_Rica] PHP Warning:  include_once(): Failed opening 'api-controller.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 3
+[22-Nov-2018 18:48:35 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 18:53:15 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 18:59:19 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 19:02:56 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 19:02:59 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 19:06:37 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[22-Nov-2018 19:06:40 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(7): MvcApiController::getEmpresasController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 12
+[29-Nov-2018 18:02:53 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[29-Nov-2018 18:02:53 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[29-Nov-2018 20:11:28 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[29-Nov-2018 20:12:12 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 26
+[29-Nov-2018 20:12:12 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/home.php on line 5
+[29-Nov-2018 20:12:52 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 107
+[29-Nov-2018 20:12:52 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 3
+[29-Nov-2018 20:31:12 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 3
+[29-Nov-2018 21:43:05 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 3
+[29-Nov-2018 21:45:15 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 3
+[30-Nov-2018 13:21:44 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[30-Nov-2018 13:21:48 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[30-Nov-2018 13:21:48 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[30-Nov-2018 13:21:53 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[30-Nov-2018 13:21:53 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[30-Nov-2018 13:22:05 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 107
+[30-Nov-2018 15:19:56 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[30-Nov-2018 15:20:02 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[30-Nov-2018 15:20:02 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[30-Nov-2018 15:20:22 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 107
+[30-Nov-2018 15:20:29 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/User_Perfil.php on line 2
+[30-Nov-2018 15:20:29 America/Costa_Rica] PHP Notice:  Undefined index: usuario in /opt/lampp/htdocs/appdicun/mvc/views/modules/User_Perfil.php on line 4
+[30-Nov-2018 15:20:54 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 107
+[30-Nov-2018 16:18:29 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/User_Perfil.php on line 2
+[30-Nov-2018 16:18:29 America/Costa_Rica] PHP Notice:  Undefined index: usuario in /opt/lampp/htdocs/appdicun/mvc/views/modules/User_Perfil.php on line 4
+[30-Nov-2018 16:28:31 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:31 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:52 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:52 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:52 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:52 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:54 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:28:54 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:29:52 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:29:52 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:29:53 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:29:53 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:30:04 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:30:04 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:08 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:08 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:35 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:35 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:41 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:41 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:41 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:41 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:47 America/Costa_Rica] PHP Warning:  include(mvc/views/modules/Editar_Perfil.php): failed to open stream: No such file or directory in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[30-Nov-2018 16:45:47 America/Costa_Rica] PHP Warning:  include(): Failed opening 'mvc/views/modules/Editar_Perfil.php' for inclusion (include_path='.:/opt/lampp/lib/php') in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 22
+[01-Dec-2018 12:23:02 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Call to undefined method Datos::vistaUsuariosModel() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php:135
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/editar-perfil.php(45): MvcController::vistaDatosUsuarioController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 135
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 144
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 148
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 144
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 148
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 144
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 148
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 144
+[01-Dec-2018 12:24:06 America/Costa_Rica] PHP Notice:  Undefined index: id_usuario in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 148
+[01-Dec-2018 12:40:20 America/Costa_Rica] PHP Fatal error:  Cannot redeclare MvcController::actualizarClienteController() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 425
+[01-Dec-2018 12:40:33 America/Costa_Rica] PHP Fatal error:  Cannot redeclare MvcController::actualizarClienteController() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 425
+[01-Dec-2018 12:40:34 America/Costa_Rica] PHP Fatal error:  Cannot redeclare MvcController::actualizarClienteController() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 425
+[01-Dec-2018 12:40:44 America/Costa_Rica] PHP Fatal error:  Cannot redeclare MvcController::actualizarClienteController() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 425
+[01-Dec-2018 12:40:57 America/Costa_Rica] PHP Fatal error:  Cannot redeclare MvcController::actualizarClienteController() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 425
+[01-Dec-2018 12:40:57 America/Costa_Rica] PHP Fatal error:  Cannot redeclare MvcController::actualizarClienteController() in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 425
+[01-Dec-2018 23:41:19 America/Costa_Rica] PHP Warning:  Illegal string offset 'nombre' in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 102
+[01-Dec-2018 23:41:19 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /opt/lampp/htdocs/appdicun/mvc/models/crud.php:102
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(162): Datos::editarEmpresaModel('6', 'empresa')
+#1 /opt/lampp/htdocs/appdicun/mvc/views/modules/editar-perfil.php(32): MvcController::editarEmpresaController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/mvc/views/template.php(33): MvcController->enlacesPaginasController()
+#4 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#6 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/models/crud.php on line 102
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: TYPEDNI in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 177
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: FULLNAMECUSTOMER in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 185
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: FANTASYNAME in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 189
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: PHONE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 193
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: EMAIL in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 197
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: PROVINCE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 207
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: CANTON in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 214
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: DISTRIC in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 221
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: STREET in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 228
+[01-Dec-2018 23:43:30 America/Costa_Rica] PHP Notice:  Undefined index: ADDRESS in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 235
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: TYPEDNI in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 177
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: FULLNAMECUSTOMER in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 185
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: FANTASYNAME in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 189
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: PHONE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 193
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: EMAIL in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 197
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: PROVINCE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 207
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: CANTON in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 214
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: DISTRIC in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 221
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: STREET in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 228
+[01-Dec-2018 23:44:04 America/Costa_Rica] PHP Notice:  Undefined index: ADDRESS in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 235
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: TYPEDNI in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 177
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: FULLNAMECUSTOMER in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 185
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: FANTASYNAME in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 189
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: PHONE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 193
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: EMAIL in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 197
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: PROVINCE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 207
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: CANTON in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 214
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: DISTRIC in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 221
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: STREET in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 228
+[01-Dec-2018 23:45:22 America/Costa_Rica] PHP Notice:  Undefined index: ADDRESS in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 235
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: TYPEDNI in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 181
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: FULLNAMECUSTOMER in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 189
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: FANTASYNAME in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 193
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: PHONE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 197
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: PROVINCE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 208
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: CANTON in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 215
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: DISTRIC in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 222
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: STREET in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 229
+[02-Dec-2018 00:03:06 America/Costa_Rica] PHP Notice:  Undefined index: ADDRESS in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 236
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: TYPEDNI in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 181
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: FULLNAMECUSTOMER in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 189
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: FANTASYNAME in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 193
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: PHONE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 197
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: PROVINCE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 208
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: CANTON in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 215
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: DISTRIC in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 222
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: STREET in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 229
+[02-Dec-2018 00:06:13 America/Costa_Rica] PHP Notice:  Undefined index: ADDRESS in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 236
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: FANTASYNAME in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 193
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: PHONE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 197
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: PROVINCE in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 208
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: CANTON in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 215
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: DISTRIC in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 222
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: STREET in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 229
+[02-Dec-2018 00:11:50 America/Costa_Rica] PHP Notice:  Undefined index: ADDRESS in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 236
+[02-Dec-2018 18:03:02 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 276
+[02-Dec-2018 18:09:56 America/Costa_Rica] PHP Parse error:  syntax error, unexpected end of file in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 745
+[02-Dec-2018 19:27:08 America/Costa_Rica] PHP Notice:  Undefined index: Id_Empresa in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 268
+[03-Dec-2018 12:02:14 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[03-Dec-2018 12:02:20 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[03-Dec-2018 13:55:47 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[03-Dec-2018 13:55:54 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[03-Dec-2018 15:24:48 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[03-Dec-2018 15:24:48 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[03-Dec-2018 15:25:01 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[03-Dec-2018 20:13:56 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[03-Dec-2018 20:14:03 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[03-Dec-2018 22:30:07 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php:126
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(34): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 126
+[03-Dec-2018 22:30:30 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php:126
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(34): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 126
+[03-Dec-2018 22:30:31 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php:126
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(34): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 126
+[03-Dec-2018 22:30:42 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php:124
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(34): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 124
+[03-Dec-2018 22:30:42 America/Costa_Rica] PHP Fatal error:  Uncaught Error: Class 'ControladorUsuarios' not found in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php:124
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include()
+#1 /opt/lampp/htdocs/appdicun/mvc/views/template.php(34): MvcController->enlacesPaginasController()
+#2 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#3 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#4 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 124
+[04-Dec-2018 10:05:00 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /opt/lampp/htdocs/appdicun/mvc/views/modules/editar-perfil.php on line 33
+[04-Dec-2018 10:05:02 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /opt/lampp/htdocs/appdicun/mvc/views/modules/editar-perfil.php on line 33
+[04-Dec-2018 10:05:04 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /opt/lampp/htdocs/appdicun/mvc/views/modules/editar-perfil.php on line 33
+[04-Dec-2018 22:53:02 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 41
+[04-Dec-2018 22:53:02 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[04-Dec-2018 22:53:10 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[05-Dec-2018 17:17:07 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[05-Dec-2018 17:17:16 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[07-Dec-2018 22:37:42 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$inici_Publi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:38:28 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$inici_Publi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:39:38 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$inici_Publi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:39:54 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$inici_Publi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:40:24 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$inici_Publi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:40:40 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$inici_Publi' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:41:40 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$iniciPubli' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:42:06 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$iniciPubli' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 22:42:24 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '$iniciPubli' (T_VARIABLE) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 648
+[07-Dec-2018 23:05:38 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[07-Dec-2018 23:05:47 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[07-Dec-2018 23:10:50 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[07-Dec-2018 23:10:52 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[09-Dec-2018 00:48:24 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[09-Dec-2018 00:48:25 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[11-Dec-2018 00:10:42 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 8
+[11-Dec-2018 00:28:40 America/Costa_Rica] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function MvcApiController::getAnunciosEmpresaController(), 0 passed in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 15 and exactly 1 expected in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php:24
+Stack trace:
+#0 /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php(15): MvcApiController::getAnunciosEmpresaController()
+#1 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(22): include('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/appdicun/mvc/views/template.php(34): MvcController->enlacesPaginasController()
+#3 /opt/lampp/htdocs/appdicun/mvc/controller/controller.php(10): include('/opt/lampp/htdo...')
+#4 /opt/lampp/htdocs/appdicun/index.php(23): MvcController->page()
+#5 {main}
+  thrown in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 24
+[11-Dec-2018 00:57:38 America/Costa_Rica] PHP Parse error:  syntax error, unexpected '}' in /opt/lampp/htdocs/appdicun/mvc/models/api-crud.php on line 43
+[11-Dec-2018 00:58:37 America/Costa_Rica] PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 32
+[11-Dec-2018 01:46:22 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 01:46:22 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 10:56:38 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 10:56:38 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 10:56:42 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 10:56:42 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 10:56:42 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 10:56:42 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 10:57:32 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 10:57:50 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 10:57:54 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 6
+[11-Dec-2018 11:41:58 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 11:45:10 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 11:45:45 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 11:47:04 America/Costa_Rica] PHP Notice:  Undefined index: datos_Siwcth in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 11:48:59 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 12:21:48 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 12:22:09 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 12:23:13 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 12:33:53 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 12:33:56 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 12:34:21 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 13:46:16 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 13:46:30 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 13:46:31 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 13:54:02 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 13:54:02 America/Costa_Rica] PHP Notice:  Undefined index: para_funcion in /opt/lampp/htdocs/appdicun/mvc/controller/api-controller.php on line 25
+[11-Dec-2018 14:07:40 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 14:09:59 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 15:29:51 America/Costa_Rica] PHP Notice:  Undefined variable: resultado in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 51
+[11-Dec-2018 18:27:50 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: nombre in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 338
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: ruta in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 338
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 342
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: nombre in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 338
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: ruta in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 338
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 342
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: nombre in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 338
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: ruta in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 338
+[11-Dec-2018 18:39:55 America/Costa_Rica] PHP Notice:  Undefined index: id in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 342
+[11-Dec-2018 21:51:03 America/Costa_Rica] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 366
+[12-Dec-2018 00:32:07 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[12-Dec-2018 00:33:23 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[12-Dec-2018 01:01:04 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 144
+[12-Dec-2018 01:01:04 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 148
+[12-Dec-2018 01:01:04 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 155
+[12-Dec-2018 01:01:04 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 162
+[12-Dec-2018 01:01:08 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 144
+[12-Dec-2018 01:01:08 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 148
+[12-Dec-2018 01:01:08 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 155
+[12-Dec-2018 01:01:08 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 162
+[12-Dec-2018 01:03:47 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 148
+[12-Dec-2018 01:03:47 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 154
+[12-Dec-2018 01:03:47 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 161
+[12-Dec-2018 01:03:47 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 168
+[12-Dec-2018 01:07:57 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 148
+[12-Dec-2018 01:07:57 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 154
+[12-Dec-2018 01:07:57 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 161
+[12-Dec-2018 01:07:57 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 168
+[12-Dec-2018 13:29:52 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[12-Dec-2018 15:20:30 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 15:20:30 America/Costa_Rica] PHP Notice:  Undefined index: Empresa in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 15:20:31 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[12-Dec-2018 15:20:31 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 15:20:31 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 15:20:31 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 15:20:31 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 15:29:57 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[12-Dec-2018 15:29:58 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[12-Dec-2018 15:29:58 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 15:29:58 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 15:29:58 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 15:29:58 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 15:29:59 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[12-Dec-2018 15:30:08 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[12-Dec-2018 15:30:08 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 15:30:08 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 15:30:08 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 15:30:08 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 15:31:07 America/Costa_Rica] PHP Notice:  Undefined index: n_switch in /opt/lampp/htdocs/appdicun/mvc/views/modules/api-appdicun.php on line 5
+[12-Dec-2018 16:44:50 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:50 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:53 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:53 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:54 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:54 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:54 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:54 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:55 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:55 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:56 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:56 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:57 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:57 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:44:58 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:44:58 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:51:13 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:51:13 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:51:14 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:51:14 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:51:14 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:51:14 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:51:15 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:51:15 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:51:15 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:51:15 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:51:16 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:51:16 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:53:38 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:53:38 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:53:49 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:53:49 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:53:50 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:53:50 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:53:51 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:53:51 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 16:53:52 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 16:53:52 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 17:01:18 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 17:01:18 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 17:03:30 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 108
+[12-Dec-2018 17:03:30 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 17:03:30 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 17:03:30 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 17:03:30 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 17:03:36 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[12-Dec-2018 17:03:48 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 17:03:48 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 17:03:49 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/nav-template/nav-horizontal.php on line 27
+[12-Dec-2018 17:03:49 America/Costa_Rica] PHP Notice:  Undefined variable: _SESSION in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 5
+[12-Dec-2018 17:31:55 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 109
+[12-Dec-2018 17:31:55 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 17:31:55 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 17:31:55 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 17:31:55 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 18:18:27 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 18:18:27 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 18:18:27 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 18:18:27 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 18:52:24 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 18:52:24 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 18:52:24 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 18:52:24 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
+[12-Dec-2018 18:52:29 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/views/modules/Logout.php on line 2
+[12-Dec-2018 18:52:36 America/Costa_Rica] PHP Notice:  session_start(): A session had already been started - ignoring in /opt/lampp/htdocs/appdicun/mvc/controller/controller.php on line 109
+[12-Dec-2018 18:52:36 America/Costa_Rica] PHP Notice:  Undefined index: id_publi in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 145
+[12-Dec-2018 18:52:36 America/Costa_Rica] PHP Warning:  Illegal string offset 'nomb_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 149
+[12-Dec-2018 18:52:36 America/Costa_Rica] PHP Warning:  Illegal string offset 'precio_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 156
+[12-Dec-2018 18:52:36 America/Costa_Rica] PHP Warning:  Illegal string offset 'descri_publi' in /opt/lampp/htdocs/appdicun/mvc/views/modules/panel.php on line 163
