@@ -2,6 +2,10 @@
 class EnlacesPaginas{
   public static function enlacesPaginasModel($enlacesModel){
     switch ($enlacesModel) {
+      #------------------------------------------
+      case "index":
+      $module = "mvc/views/modules/index.php";
+      break;
       case "intro":
       $module = "mvc/views/modules/intro.php";
       break;
@@ -84,6 +88,8 @@ class EnlacesPaginas{
       default:
       $module = "mvc/views/modules/panel.php";
       break;
+
+
     }
     return $module;
   }

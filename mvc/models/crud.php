@@ -189,6 +189,67 @@
           $stmt->close();
         }
 
+
+
+
+        static public function vistaPublicacionesTodas(){
+          $stmt = Conexion::conectar()->prepare(
+            " SELECT
+                  publicidad.id_publi,
+                  publicidad.fk_id_emp,
+                  publicidad.nomb_publi,
+                  publicidad.nomb_imag_publi,
+                  publicidad.ruta_imag_publi,
+                  publicidad.precio_publi,
+                  publicidad.descri_publi,
+                  publicidad.cond_publi,
+                  publicidad.dest_publi,
+                  publicidad.inicio_publi,
+                  publicidad.final_publi
+              FROM
+                    publicidad
+              INNER JOIN (
+                SELECT empresa.id_emp, empresa.nomb_emp
+                  FROM empresa
+                ) empresa
+              ON publicidad.fk_id_emp = empresa.id_emp
+              WHERE publicidad.fk_id_emp = $_SESSION[id_Emp]");
+
+          $stmt -> execute();
+          #fetchAll se usa para obtener todas las filas de un conjunto de resultados de la base de datos.
+          return $stmt->fetchAll();
+          $stmt->close();
+        }
+
+        static public function vistaPublicacionesModel(){
+          $stmt = Conexion::conectar()->prepare(
+            " SELECT
+                  publicidad.id_publi,
+                  publicidad.fk_id_emp,
+                  publicidad.nomb_publi,
+                  publicidad.nomb_imag_publi,
+                  publicidad.ruta_imag_publi,
+                  publicidad.precio_publi,
+                  publicidad.descri_publi,
+                  publicidad.cond_publi,
+                  publicidad.dest_publi,
+                  publicidad.inicio_publi,
+                  publicidad.final_publi
+              FROM
+                    publicidad");
+
+          $stmt -> execute();
+          #fetchAll se usa para obtener todas las filas de un conjunto de resultados de la base de datos.
+          return $stmt->fetchAll();
+          $stmt->close();
+        }
+
+
+
+
+
+
+
         #Editar Publicaciones de Empresas
         #---------------------------
         static public function editarPublicacionesEmpresaModel($datosModel, $tabla){

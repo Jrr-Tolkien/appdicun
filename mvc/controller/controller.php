@@ -319,32 +319,60 @@ static public function registroEmpresaController(){
        #  Vista publicaciones upload
        #--------------------------------------------------------
 
-         static public function vistaPublicacionesEmpresaController(){
-           $respuesta = Datos::vistaPublicacionesEmpresaModel();
-           // var_dump($respuesta);
-         #constructor foreach - proporciona un modo sencillo para recorrer un array, solo funciona sobre arrays.
-           foreach ($respuesta as $row => $item) {
-             echo"
-            <div class='col-md-4'>
-              <div class='card mb-4 shadow-sm'>
-                <p class='card-text'><h1> <small> ".$item["nomb_publi"]." </small></h1></p>
-                <img class='card-img-top' data-src='holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail' alt='Thumbnail [100%x225]' style='height: 225px; width: 100%; display: block;'
-                src= ".$item["ruta_imag_publi"]." data-holder-rendered='true'  style='height: 225px; width: 100%; display: block;'>
-                <div class='card-body'>
-                  <p class='card-text'>".$item["descri_publi"]."</p>
-                  <p class='card-text'>¢ ".$item["precio_publi"]."</p>
-                  <div class='d-flex justify-content-between align-items-center'>
-                    <div class='btn-group' href='producto2&id=".$item["id_publi"]."' >
-                      <button type='button' class='btn btn-success' data-toggle='modal' data-target='#modalEditarPublicaciones' >Editar</button>
-                    </div>
-                    <small class='text-muted'> Publicado ".$item["inicio_publi"].",</small>
-                    <small class='text-muted'> Vence ".$item["final_publi"]."</small>
-                  </div>
-                </div>
-              </div>
-            </div>  ";
-           }
-          }
+       static public function vistaPublicacionesEmpresaController(){
+        $respuesta = Datos::vistaPublicacionesEmpresaModel();
+        // var_dump($respuesta);
+      #constructor foreach - proporciona un modo sencillo para recorrer un array, solo funciona sobre arrays.
+        foreach ($respuesta as $row => $item) {
+          echo"
+         <div class='col-md-4'>
+           <div class='card mb-4 shadow-sm'>
+             <p class='card-text'><h1> <small> ".$item["nomb_publi"]." </small></h1></p>
+             <img class='card-img-top' data-src='holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail' alt='Thumbnail [100%x225]' style='height: 225px; width: 100%; display: block;'
+             src= ".$item["ruta_imag_publi"]." data-holder-rendered='true'  style='height: 225px; width: 100%; display: block;'>
+             <div class='card-body'>
+               <p class='card-text'>".$item["descri_publi"]."</p>
+               <p class='card-text'>¢ ".$item["precio_publi"]."</p>
+               <div class='d-flex justify-content-between align-items-center'>
+                 <div class='btn-group' href='producto2&id=".$item["id_publi"]."' >
+                   <button type='button' class='btn btn-success' data-toggle='modal' data-target='#modalEditarPublicaciones' >Editar</button>
+                 </div>
+                 <small class='text-muted'> Publicado ".$item["inicio_publi"].",</small>
+                 <small class='text-muted'> Vence ".$item["final_publi"]."</small>
+               </div>
+             </div>
+           </div>
+         </div>  ";
+        }
+       }
+
+
+       static public function vistaPublicacionesTodas(){
+        $respuesta = Datos::vistaPublicacionesModel();
+        // var_dump($respuesta);
+      #constructor foreach - proporciona un modo sencillo para recorrer un array, solo funciona sobre arrays.
+        foreach ($respuesta as $row => $item) {
+          echo"
+         <div class='col-md-4'>
+           <div class='card mb-4 shadow-sm'>
+             <p class='card-text'><h1> <small> ".$item["nomb_publi"]." </small></h1></p>
+             <img class='card-img-top' data-src='holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail' alt='Thumbnail [100%x225]' style='height: 225px; width: 100%; display: block;'
+             src= ".$item["ruta_imag_publi"]." data-holder-rendered='true'  style='height: 225px; width: 100%; display: block;'>
+             <div class='card-body'>
+               <p class='card-text'>".$item["descri_publi"]."</p>
+               <p class='card-text'>¢ ".$item["precio_publi"]."</p>
+               <div class='d-flex justify-content-between align-items-center'>
+                 <div class='btn-group' href='producto2&id=".$item["id_publi"]."' >
+                   <button type='button' class='btn btn-success' data-toggle='modal' data-target='#modalEditarPublicaciones' >Editar</button>
+                 </div>
+                 <small class='text-muted'> Publicado ".$item["inicio_publi"].",</small>
+                 <small class='text-muted'> Vence ".$item["final_publi"]."</small>
+               </div>
+             </div>
+           </div>
+         </div>  ";
+        }
+       }
 
           #Editar Publicaciones de Empresas
           #-------------------------------------------------------------------
